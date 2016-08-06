@@ -3,7 +3,6 @@
   "tagline": "USICT's Python Code Sprint Website",
   "body": "### Welcome to Python Code Camp.
   \r\nThis website is for sharing all the materials discussed in weekly sessions based on Python programming language at USICT, Dwarka, New Delhi. All the presentations, assignments and code will be kept in various repositories in [PythonOn](http://github.com/PythonOn). PythonOn is a month long series of tutorials to be taught in sessions and a code sprint which will be organised after a month when sessions are complete. During the code sprint the students will have to create a working software with what they've learnt about Python. Okay that's about it. \r\n\r\nDude this is going to be kick ass. :smile::wink:\r\n\r\n### A bit about Study Materials\r\nWe’ve crafted some presentations using Reveal.js which we'll be uploading here. \r\nAll the codes be uploaded in a separate repository under PythonOn.\r\nWe will upload assignments in a separate repository, you just have to fork it, do your tasks in assignments and send us a pull request for assessment.
-  \r\n\r\n### Syllabus \r\n [Download](pdf/pythoncs.pdf)
   \r\n\r\n### WhatsApp Group \r\nThe conversations take place on WhatsApp. Join us by pinging.
   \r\n\r\n### Authors and Contributors\r\n@neelansh \r\n@maayanktyagi \r\n@jatinrajani\r\n@hemangsk
   \r\n\r\n### Support or Contact\r\nHaving queries? Mail us [here](hemangsk@gmail.com)",
